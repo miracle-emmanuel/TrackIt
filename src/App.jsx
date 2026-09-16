@@ -197,7 +197,7 @@ function Footer({ onNavigate }) {
         </div>
 
         <p className="text-center text-sm text-slate-400 mb-4">
-          © DHL 2026. All rights reserved.
+          © TrackIT 2026. All rights reserved.
         </p>
 
         <div className="text-center">
